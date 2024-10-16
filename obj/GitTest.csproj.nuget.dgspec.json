@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/hassan/Documents/codestack/level one/GitTest/GitTest.csproj": {}
+    "/Users/hassan/Documents/GitRepository/GitTest/GitTest.csproj": {}
   },
   "projects": {
-    "/Users/hassan/Documents/codestack/level one/GitTest/GitTest.csproj": {
+    "/Users/hassan/Documents/GitRepository/GitTest/GitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/hassan/Documents/codestack/level one/GitTest/GitTest.csproj",
+        "projectUniqueName": "/Users/hassan/Documents/GitRepository/GitTest/GitTest.csproj",
         "projectName": "GitTest",
-        "projectPath": "/Users/hassan/Documents/codestack/level one/GitTest/GitTest.csproj",
+        "projectPath": "/Users/hassan/Documents/GitRepository/GitTest/GitTest.csproj",
         "packagesPath": "/Users/hassan/.nuget/packages/",
-        "outputPath": "/Users/hassan/Documents/codestack/level one/GitTest/obj/",
+        "outputPath": "/Users/hassan/Documents/GitRepository/GitTest/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/hassan/.nuget/NuGet/NuGet.Config"
